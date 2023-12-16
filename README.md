@@ -1,2 +1,2 @@
-# mathplotlib-examples
+# matplotlib-examples
  
