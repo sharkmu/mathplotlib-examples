@@ -17,7 +17,7 @@ def line_diagram_o():
 line_diagram_o()
 
 def line_diagram_marker():
-    plt.plot(xpoints, ypoints, marker='x') # You can also use 'o' etc.
+    plt.plot(xpoints, ypoints, marker='x') # You can also use these: o * . , x X + P s D d p H h v ^ < > 1 2 3 4 | _
     plt.show()
 
 line_diagram_marker()
